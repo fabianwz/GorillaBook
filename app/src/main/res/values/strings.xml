@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GorillaBook</string>
+    <string name="logo_description">GorillaBook Logo</string>
+
+    <string name="first_name">Fabian</string>
+    <string name="last_name">Gamboa</string>
+
+    <string name="greeting_text">Hello %s</string>
+    <string name="new_post">What\'s on your mind</string>
 </resources>
